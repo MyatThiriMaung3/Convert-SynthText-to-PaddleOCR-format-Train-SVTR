@@ -1,1 +1,5 @@
+# Ignore h5 files
 *.h5
+
+# Ignore a SynthText-English and all its contents as it will have generated data
+SynthText-English/
