@@ -3,3 +3,7 @@
 
 # Ignore a SynthText-English and all its contents as it will have generated data
 SynthText-English/
+
+images/
+
+labels.txt
